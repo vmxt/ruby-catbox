@@ -1,6 +1,7 @@
 # Ruby Catbox
+<img width="1942" height="809" alt="ruby-catbox" src="https://github.com/user-attachments/assets/77376f9f-aeca-4291-80f8-5fb3af6eece6" />
 
-A Ruby CLI for the Catbox and Litterbox APIs, converted from the Bash script into a small gem-powered command app.
+Ruby Catbox is a command-line uploader for Catbox and Litterbox that supports file uploads, temporary uploads, remote URL uploads, deletion, albums, user hashes, colored output, progress indicators, and clipboard copying.
 
 ## Gems Used
 
